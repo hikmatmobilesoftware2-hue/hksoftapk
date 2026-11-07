@@ -1,0 +1,8 @@
+{
+  "name": "Remix HIKMAT LEDGER PRO",
+  "description": "Shop \u0026 Personal Finance Management System developed by HIKMAT MOBILE SOFTWARE for shopkeepers and business owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
